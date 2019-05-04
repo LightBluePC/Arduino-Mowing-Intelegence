@@ -15,20 +15,20 @@ The Plan (Time is based on one person working while juggling a full time job)
     - build connection arduino to PC (1 week)
     - build simple controller on the PC (2 weeks)
     - build intructions/scripts to set this up (1 week) (youtube video?)
-4. Build version one of the machine! 
+4. Build version one of the machine! (mostly done, 1 month)
     - built a early prototype using wheel chair motors and plywood (done)
     - used Dimession Engineering Sabertooth curcuit for controlling the motors (done)
     - used the transformer from outlet to apprpriate voltage for motors
     - all logic controlers on 5 volts low amp electrical system
     - all motors on 12 volts 30 amps electrical system
     - using arduino with wifi cc3000 sheild (already out of date) (done, will need to change later)
-5. setting up connection from arduino to Dimession Enginnering circuit. ie make the computer controller.
+5. setting up connection from arduino to Dimession Enginnering circuit. ie make the computer controller.(1 month)
     - still need to setup connection from ardiono to PC
     - still need to setup connection from arduino to Dimenssion Enginnering curcuit (currently set up for radio control)
     - test the controls work in real life
     - set up camera feed? (thinking of using ip cameras, or arduino wifi 
     - (future, YANGNIY!) create a phone app controller debatible on how to do this
-6. finding tolleraces and testing wifi latancy (fine tuning protocals)
+6. finding tolleraces and testing wifi latancy (fine tuning protocals) (1 month)
     example: turing left,right,forward,backward what happens when signal is lost ect...
     -look into google protobuf?
     -look into graphQI?
