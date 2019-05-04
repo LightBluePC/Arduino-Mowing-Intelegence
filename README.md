@@ -5,11 +5,8 @@ Arduino controlling motors and using software effectively to do simple routing f
 ## DRY = Don't Repeat Yourself!
 
 The Plan (Time is based on one person working while juggling a full time job)
-
 1. Do reashearch and plan before doing random work.
-
 2. setup github repository to hold the software, plans, and documents of this porject. Everthing should be stored and have read.me here
-
 3. setting up the connection arduino to computer (ETA => 1.5 months)
     - build connect arduino to wifi (1 week)
     - build connection arduino to PC (1 week)
@@ -29,7 +26,7 @@ The Plan (Time is based on one person working while juggling a full time job)
     - set up camera feed? (thinking of using ip cameras, or arduino wifi 
     - (future, YANGNIY!) create a phone app controller debatible on how to do this
 6. finding tolleraces and testing wifi latancy (fine tuning protocals) (1 month)
-    example: turing left,right,forward,backward what happens when signal is lost ect...
+    -example: turing left,right,forward,backward what happens when signal is lost ect...
     -look into google protobuf?
     -look into graphQI?
     -do some reashearch see what other professionals do.
