@@ -23,7 +23,7 @@ The Plan (Time is based on one person working while juggling a full time job)
     - still need to setup connection from ardiono to PC
     - still need to setup connection from arduino to Dimenssion Enginnering curcuit (currently set up for radio control)
     - test the controls work in real life
-    - set up camera feed? (thinking of using ip cameras, or arduino wifi 
+    - set up camera feed? (thinking of using ip cameras, or connect the ip camera to arduino wifi ethernet sheild to wifi shield cc3000) 
     - (future, YANGNIY!) create a phone app controller debatible on how to do this
 6. Finding tolleraces and testing wifi latancy (fine tuning protocals) (1 month)
     - example: turing left,right,forward,backward what happens when signal is lost ect...
