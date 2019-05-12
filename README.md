@@ -29,6 +29,7 @@ The Plan (Time is based on one person working while juggling a full time job)
     - example: turing left,right,forward,backward what happens when signal is lost ect...
     - look into google protobuf?
     - look into graphQI?
+    - look into LoraWAN?
     - do some reashearch see what other professionals do.
 7. Add needed sensors debate the design of cameras or other detection methods. (TBD)
 8. Make the pathing algorithym and test it. (TBD)
